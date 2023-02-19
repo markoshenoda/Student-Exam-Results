@@ -1,0 +1,80 @@
+﻿<UserControl
+    x:Class="SER.Run.Viewes.AddEducationalInstitutionsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.RowSpan="2" Grid.Column="3">
+            <Border Style="{StaticResource MainBorder}">
+                <ListView
+                        ItemContainerStyle="{StaticResource ListItemSelection}"
+                        ItemsSource="{Binding Divisions}"
+                        SelectionMode="Multiple" />
+            </Border>
+            <Button Command="{Binding SaveCommand}" Style="{StaticResource SaveButton}" />
+        </StackPanel>
+        <TextBlock
+                Margin="10"
+                Text="أسم المؤسسة التعليمية :" />
+        <TextBox
+                Grid.Column="1"
+                Margin="10"
+                VerticalAlignment="Top"
+                Text="{Binding EduactinalName}" />
+        <Button
+                Grid.Column="2"
+                VerticalAlignment="Top"
+                Command="{Binding AddCommand}"
+                Style="{StaticResource AddButton}" />
+        <Border
+                Grid.Row="1"
+                Grid.ColumnSpan="3"
+                Margin="10"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top"
+                Style="{StaticResource MainBorder}">
+            <ListView ItemsSource="{Binding Educationals}">
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Header="أسم المؤسسة">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Name}" />
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="الشعب التعليمية">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <ItemsControl
+                                                HorizontalAlignment="Stretch"
+                                                BorderThickness="0"
+                                                ItemsSource="{Binding Divisions}"
+                                                ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                                ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                                            <ItemsControl.ItemTemplate>
+                                                <DataTemplate>
+                                                    <TextBlock FontSize="15" Text="{Binding Name}" />
+                                                </DataTemplate>
+                                            </ItemsControl.ItemTemplate>
+                                        </ItemsControl>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+    </Grid>
+</UserControl>

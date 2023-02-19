@@ -1,0 +1,30 @@
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.deps.json
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.dll
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.pdb
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.AssemblyInfoInputs.cache
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.AssemblyInfo.cs
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.csproj.CoreCompileInputs.cache
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.dll
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\ref\DataBaseManger.dll
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.pdb
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.runtimeconfig.json
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.runtimeconfig.dev.json
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.genruntimeconfig.cache
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\bin\Debug\net5.0\ref\DataBaseManger.dll
+D:\NewWork\DeskTop\Student exam results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.csproj.AssemblyReference.cache
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\ref\DataBaseManger.dll
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.deps.json
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.runtimeconfig.json
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.runtimeconfig.dev.json
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.dll
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\bin\Debug\net5.0\ref\DataBaseManger.dll
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\bin\Debug\net5.0\DataBaseManger.pdb
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.csproj.AssemblyReference.cache
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.AssemblyInfoInputs.cache
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.AssemblyInfo.cs
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.csproj.CoreCompileInputs.cache
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.dll
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.pdb
+C:\Users\God is Love\Desktop\Student Exam Results\DataBaseManger\obj\Debug\net5.0\DataBaseManger.genruntimeconfig.cache

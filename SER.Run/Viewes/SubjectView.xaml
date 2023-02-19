@@ -1,0 +1,73 @@
+﻿<UserControl
+    x:Class="SER.Run.Viewes.SubjectView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:custom="clr-namespace:DropdownMenuControl;assembly=DropdownMenuControl">
+    <Grid
+        Margin="10"
+        HorizontalAlignment="Stretch"
+        VerticalAlignment="Stretch">
+        <ItemsControl
+            ItemsSource="{Binding DivisionSubjectViewModuls}"
+            ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+            ScrollViewer.VerticalScrollBarVisibility="Disabled">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock HorizontalAlignment="Center" Text="{Binding Name}" />
+                        <Border
+                            Grid.Row="1"
+                            HorizontalAlignment="Stretch"
+                            VerticalAlignment="Top"
+                            Style="{StaticResource MainBorder}">
+                            <ItemsControl
+                                HorizontalAlignment="Stretch"
+                                BorderBrush="Transparent"
+                                BorderThickness="0"
+                                ItemsSource="{Binding SubjectViews}"
+                                ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <Border
+                                            Margin="7,5"
+                                            Padding="10,0"
+                                            Style="{StaticResource MainBorder}">
+                                            <Grid MinWidth="100">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition Width="*" />
+                                                    <ColumnDefinition Width="auto" />
+                                                </Grid.ColumnDefinitions>
+                                                <TextBlock Text="{Binding Name}" />
+                                                <custom:DropdownMenu
+                                                    x:Name="drop1"
+                                                    Grid.Column="1"
+                                                    Margin="10,0,0,0">
+                                                    <Border
+                                                        Background="White"
+                                                        BorderBrush="Gray"
+                                                        BorderThickness="1">
+                                                        <StackPanel>
+                                                            <Button Command="{Binding EditCommand}" Style="{StaticResource EditMenuButton}" />
+                                                            <Button Command="{Binding DeleteCommand}" Style="{StaticResource DeleteMenueButton}" />
+                                                        </StackPanel>
+                                                    </Border>
+                                                </custom:DropdownMenu>
+                                            </Grid>
+                                        </Border>
+
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                                <ItemsControl.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <WrapPanel />
+                                    </ItemsPanelTemplate>
+                                </ItemsControl.ItemsPanel>
+                            </ItemsControl>
+                        </Border>
+                    </StackPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</UserControl>

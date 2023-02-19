@@ -1,0 +1,142 @@
+﻿<UserControl
+    x:Class="SER.Run.Viewes.AddDivisionView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="7">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock
+            Grid.Row="0"
+            Grid.Column="0"
+            Text="أسم القسم :" />
+        <TextBox
+            Grid.Row="0"
+            Grid.Column="1"
+            Height="auto"
+            Margin="10"
+            VerticalAlignment="Top"
+            Text="{Binding DivisionName, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+            <TextBox.InputBindings>
+                <KeyBinding Key="Enter" Command="{Binding AddDivisionCommand}" />
+            </TextBox.InputBindings>
+        </TextBox>
+        <Button
+            Grid.Row="0"
+            Grid.Column="2"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Command="{Binding AddDivisionCommand}"
+            Style="{Binding DivStyle}" />
+        <TextBlock
+            Grid.Row="1"
+            Grid.Column="0"
+            Text="أسم الشعبة :" />
+        <TextBox
+            Grid.Row="1"
+            Grid.Column="1"
+            Margin="10"
+            VerticalAlignment="Top"
+            Text="{Binding SubDivisionName, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}">
+            <TextBox.InputBindings>
+                <KeyBinding Key="Enter" Command="{Binding AddSubDivisionCommand}" />
+            </TextBox.InputBindings>
+        </TextBox>
+        <Button
+            Grid.Row="1"
+            Grid.Column="2"
+            Margin="0,7,0,8"
+            VerticalAlignment="Top"
+            Command="{Binding AddSubDivisionCommand}"
+            Style="{Binding SubDivStyle}" />
+        <Grid
+            Grid.Row="0"
+            Grid.RowSpan="3"
+            Grid.Column="4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock
+                Grid.Row="0"
+                Text="الاقسام"
+                TextAlignment="Center" />
+            <Border
+                Grid.Row="1"
+                Margin="10,0"
+                Style="{StaticResource MainBorder}">
+                <ListView
+                    x:Name="divisions"
+                    VerticalAlignment="Center"
+                    BorderBrush="Transparent"
+                    BorderThickness="0"
+                    ItemContainerStyle="{StaticResource ListItemSelection}"
+                    ItemsSource="{Binding Divisions}"
+                    ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                    SelectedItem="{Binding SelectedDivision, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    SelectionMode="Single" />
+            </Border>
+            <Button
+                Grid.Row="2"
+                VerticalAlignment="Bottom"
+                Command="{Binding SaveCommand}"
+                Style="{StaticResource SaveButton}" />
+        </Grid>
+        <Border
+            Grid.Row="2"
+            Grid.Column="0"
+            Grid.ColumnSpan="3"
+            Margin="10,0"
+            HorizontalAlignment="Stretch"
+            Style="{StaticResource MainBorder}">
+            <ListView
+                Height="200"
+                BorderThickness="0"
+                ItemsSource="{Binding Divisions}">
+                <ListView.View>
+                    <GridView>
+                        <GridView.Columns>
+                            <GridViewColumn Header="الأقسام التعليمية">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Text="{Binding Name}" />
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="الشعب التعليمية">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <ItemsControl
+                                            HorizontalAlignment="Stretch"
+                                            BorderThickness="0"
+                                            ItemsSource="{Binding SubDivisions}"
+                                            ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                            ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                                            <ItemsControl.ItemTemplate>
+                                                <DataTemplate>
+                                                    <TextBlock
+                                                        Margin="0"
+                                                        FontSize="15"
+                                                        Text="{Binding Name}" />
+                                                </DataTemplate>
+                                            </ItemsControl.ItemTemplate>
+                                        </ItemsControl>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView.Columns>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+    </Grid>
+</UserControl>

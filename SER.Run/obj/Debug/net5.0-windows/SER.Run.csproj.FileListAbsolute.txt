@@ -1,0 +1,216 @@
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\App.g.cs
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run_MarkupCompile.cache
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run_MarkupCompile.lref
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER.Run.exe
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER.Run.deps.json
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER.Run.runtimeconfig.json
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER.Run.runtimeconfig.dev.json
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER.Run.dll
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER.Run.pdb
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.g.resources
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.AssemblyInfoInputs.cache
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.AssemblyInfo.cs
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.CoreCompileInputs.cache
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.dll
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\ref\SER.Run.dll
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.pdb
+D:\NewWork\DeskTop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.genruntimeconfig.cache
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\StarupWindows.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\StarupWindows.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.Fody.CopyLocal.cache
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.Fody.RuntimeCopyLocal.cache
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\App.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Styles\Buttons.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Styles\Colors.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Styles\Fonts.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Styles\Texts.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.CopyComplete
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\LoginView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\LoginView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Styles\GenralStalyes.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\ref\SER.Run.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\UI Elements\CustomPasswordBox.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\UI Elements\CustomPasswordBox.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\ChangePasswordView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\ChangePasswordView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Styles\Texts.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListItemsWithDots.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListOfItems.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\DropdownMenuControl.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\LoadingSpinnerControl.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListItemsWithDots.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListOfItems.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AdminHomeView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AdminHomeView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.AssemblyReference.cache
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\DataBaseManger.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\DataBaseManger.pdb
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\ModalControl.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditeEducationalInstitutionsView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditeEducationalInstitutionsView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditSubjectsView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditUserView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditSubjectsView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditUserView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditStudentView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditStudentView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Castle.Core.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\InstitutionsDivisionsView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\InstitutionsDivisionsView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\SubjectView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\SubjectView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddDivisionView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddDivisionView.g.cs
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEducationalInstitutionsView.baml
+D:\NewWork\DeskTop\Student exam results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEducationalInstitutionsView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER Start.exe
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER Start.deps.json
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER Start.runtimeconfig.json
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER Start.runtimeconfig.dev.json
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER Start.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\ref\SER Start.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SER Start.pdb
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Castle.Core.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\DropdownMenuControl.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\LoadingSpinnerControl.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\ModalControl.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\DataBaseManger.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\bin\Debug\net5.0-windows\DataBaseManger.pdb
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.AssemblyReference.cache
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Styles\Buttons.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Styles\Fonts.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Styles\GenralStalyes.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Styles\Texts.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\UI Elements\CustomPasswordBox.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListItemsWithDots.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddDivisionView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditStudentView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditSubjectsView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditUserView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEducationalInstitutionsView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AdminHomeView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\InstitutionsDivisionsView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\SubjectView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\StarupWindows.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Styles\Texts.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\UI Elements\CustomPasswordBox.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListItemsWithDots.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListOfItems.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddDivisionView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditeEducationalInstitutionsView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditStudentView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditSubjectsView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditUserView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEducationalInstitutionsView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AdminHomeView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\ChangePasswordView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\InstitutionsDivisionsView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\LoginView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\SubjectView.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER Start_MarkupCompile.cache
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER Start_MarkupCompile.lref
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\App.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\StarupWindows.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Styles\Colors.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\UI Elements\ListOfItems.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\AddEditeEducationalInstitutionsView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\ChangePasswordView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\Viewes\LoginView.baml
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER Start.g.resources
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.AssemblyInfoInputs.cache
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.AssemblyInfo.cs
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.CoreCompileInputs.cache
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.Fody.CopyLocal.cache
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.csproj.CopyComplete
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER Start.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\ref\SER Start.dll
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER Start.pdb
+C:\Users\God is Love\Desktop\Student Exam Results\SER.Run\obj\Debug\net5.0-windows\SER.Run.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+﻿<UserControl
+    x:Class="SER.Run.Viewes.LoginView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ui="clr-namespace:SER.Run.UI_Elements">
+    <Border Style="{StaticResource MainBorder}">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <TextBlock
+                Grid.Row="0"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Style="{StaticResource TitleBlok}"
+                Text="تسجيل الدخول" />
+            <TextBlock
+                Grid.Row="1"
+                Grid.Column="0"
+                Text="كود المستخدم :" />
+            <TextBlock
+                Grid.Row="2"
+                Grid.Column="0"
+                Text="كلمة المرور :" />
+            <TextBox
+                Grid.Row="1"
+                Grid.Column="1"
+                Style="{StaticResource NumberTextBox}"
+                Text="{Binding UserCode, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" />
+            <ui:CustomPasswordBox
+                Grid.Row="2"
+                Grid.Column="1"
+                Password="{Binding UserPass, Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" />
+            <Button
+                Grid.Row="3"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Command="{Binding CLoginCommand}"
+                Content="تسجيل الدخول" />
+        </Grid>
+    </Border>
+</UserControl>

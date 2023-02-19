@@ -1,0 +1,38 @@
+﻿<UserControl
+    x:Class="SER.Run.Viewes.AddEditeEducationalInstitutionsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SER.Run.ViewMoules">
+    <Border Style="{StaticResource MainBorder}">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <TextBlock
+                Grid.Column="0"
+                Style="{StaticResource TitleBlok}"
+                Text="{Binding Title}" />
+            <Button
+                Grid.Column="1"
+                HorizontalAlignment="Center"
+                Style="{StaticResource CancelButton}" />
+            <TabControl
+                Grid.Row="1"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                BorderThickness="0">
+                <TabItem BorderBrush="Orange" Header="أضافة الأقسام والشعب">
+                    <ContentControl Content="{Binding AddDivision}" />
+                </TabItem>
+                <TabItem BorderBrush="Orange" Header="أضافة المؤسسات">
+                    <ContentControl Content="{Binding AddEducationalInstitutionsViewModul}" />
+                </TabItem>
+            </TabControl>
+        </Grid>
+    </Border>
+</UserControl>
